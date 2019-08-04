@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <img src="./assets/timg.jpg">-->
     <router-view />
-
+  <h1>aaaa</h1>
   </div>
 </template>
 
